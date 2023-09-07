@@ -1,9 +1,17 @@
+using JobQueueMVC.Infrastracture;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+builder.Services.AddDbContext<Context>();
+builder.Services.AddDefaultIdentity<IdentityUser>(options=> options.SignIn.RequireConfirmedAccount = true)
+    .AddEntityFrameworkStores<Context>();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\korlatowiczm\\Documents\\SzkolaDotNeta\\ASP.NET\\JobQueueMVC\\Test\\JobQueueMVC.Tests\\JobQueueMVC.Tests.csproj": {}
+    "c:\\Users\\korlatowiczm\\Documents\\SzkolaDotNeta\\ASP.NET\\JobQueueMVC\\Test\\JobQueueMVC.Tests\\JobQueueMVC.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\korlatowiczm\\Documents\\SzkolaDotNeta\\ASP.NET\\JobQueueMVC\\Test\\JobQueueMVC.Tests\\JobQueueMVC.Tests.csproj": {
+    "c:\\Users\\korlatowiczm\\Documents\\SzkolaDotNeta\\ASP.NET\\JobQueueMVC\\Test\\JobQueueMVC.Tests\\JobQueueMVC.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\korlatowiczm\\Documents\\SzkolaDotNeta\\ASP.NET\\JobQueueMVC\\Test\\JobQueueMVC.Tests\\JobQueueMVC.Tests.csproj",
+        "projectUniqueName": "c:\\Users\\korlatowiczm\\Documents\\SzkolaDotNeta\\ASP.NET\\JobQueueMVC\\Test\\JobQueueMVC.Tests\\JobQueueMVC.Tests.csproj",
         "projectName": "JobQueueMVC.Tests",
-        "projectPath": "C:\\Users\\korlatowiczm\\Documents\\SzkolaDotNeta\\ASP.NET\\JobQueueMVC\\Test\\JobQueueMVC.Tests\\JobQueueMVC.Tests.csproj",
+        "projectPath": "c:\\Users\\korlatowiczm\\Documents\\SzkolaDotNeta\\ASP.NET\\JobQueueMVC\\Test\\JobQueueMVC.Tests\\JobQueueMVC.Tests.csproj",
         "packagesPath": "C:\\Users\\korlatowiczm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\korlatowiczm\\Documents\\SzkolaDotNeta\\ASP.NET\\JobQueueMVC\\Test\\JobQueueMVC.Tests\\obj\\",
+        "outputPath": "c:\\Users\\korlatowiczm\\Documents\\SzkolaDotNeta\\ASP.NET\\JobQueueMVC\\Test\\JobQueueMVC.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\korlatowiczm\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,32 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.3.2, )"

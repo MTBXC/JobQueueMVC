@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\korlatowiczm\\Documents\\SzkolaDotNeta\\ASP.NET\\JobQueueMVC\\Domain\\JobQueueMVC.Domain\\JobQueueMVC.Domain.csproj": {}
+    "c:\\Users\\korlatowiczm\\Documents\\SzkolaDotNeta\\ASP.NET\\JobQueueMVC\\Domain\\JobQueueMVC.Domain\\JobQueueMVC.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\korlatowiczm\\Documents\\SzkolaDotNeta\\ASP.NET\\JobQueueMVC\\Domain\\JobQueueMVC.Domain\\JobQueueMVC.Domain.csproj": {
+    "c:\\Users\\korlatowiczm\\Documents\\SzkolaDotNeta\\ASP.NET\\JobQueueMVC\\Domain\\JobQueueMVC.Domain\\JobQueueMVC.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\korlatowiczm\\Documents\\SzkolaDotNeta\\ASP.NET\\JobQueueMVC\\Domain\\JobQueueMVC.Domain\\JobQueueMVC.Domain.csproj",
+        "projectUniqueName": "c:\\Users\\korlatowiczm\\Documents\\SzkolaDotNeta\\ASP.NET\\JobQueueMVC\\Domain\\JobQueueMVC.Domain\\JobQueueMVC.Domain.csproj",
         "projectName": "JobQueueMVC.Domain",
-        "projectPath": "C:\\Users\\korlatowiczm\\Documents\\SzkolaDotNeta\\ASP.NET\\JobQueueMVC\\Domain\\JobQueueMVC.Domain\\JobQueueMVC.Domain.csproj",
+        "projectPath": "c:\\Users\\korlatowiczm\\Documents\\SzkolaDotNeta\\ASP.NET\\JobQueueMVC\\Domain\\JobQueueMVC.Domain\\JobQueueMVC.Domain.csproj",
         "packagesPath": "C:\\Users\\korlatowiczm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\korlatowiczm\\Documents\\SzkolaDotNeta\\ASP.NET\\JobQueueMVC\\Domain\\JobQueueMVC.Domain\\obj\\",
+        "outputPath": "c:\\Users\\korlatowiczm\\Documents\\SzkolaDotNeta\\ASP.NET\\JobQueueMVC\\Domain\\JobQueueMVC.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\korlatowiczm\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,34 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
