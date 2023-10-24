@@ -1,17 +1,19 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using System.Collections.Generic;
 
 namespace JobQueueMVC.Infrastracture
 {
     public class Context : IdentityDbContext
     {
         private string _connectionString = "Server=localhost;Database=master;Trusted_Connection=True;";
-        public DbSet<Job> Jobs {get;set;}
-        public DbSet<FEAEnginner> FEAEnginners {get;set;}
-        public DbSet<Project> Projects {get;set;}
-        public DbSet<Type> Types {get;set;}
-        public DbSet<Tag> Tags {get;set;}
-        public DbSet<JobTag> JobTag {get;set;}
+        public DbSet<Job> Jobs { get; set; }
+        public DbSet<FEAEnginner> FEAEnginners { get; set; }
+        public DbSet<Project> Projects { get; set; }
+        public DbSet<Type> Types { get;set; }
+        public DbSet<Tag> Tags { get; set; }
+        public DbSet<JobTag> JobTag { get; set; }
+
 
         public Context(DbContextOptions options) : base(options)
             {   
