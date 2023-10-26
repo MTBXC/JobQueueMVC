@@ -6,7 +6,7 @@ namespace JobQueueMVC.Infrastracture
 {
     public class Context : IdentityDbContext
     {
-        private string _connectionString = "Server=localhost;Database=master;Trusted_Connection=True;";
+        private string _connectionString = "Server=localhost\\SQLEXPRESS;Database=JobQueue;Trusted_Connection=True;";
         public DbSet<Job> Jobs { get; set; }
         public DbSet<FEAEnginner> FEAEnginners { get; set; }
         public DbSet<Project> Projects { get; set; }

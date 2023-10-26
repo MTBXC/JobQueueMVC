@@ -1,6 +1,7 @@
 using JobQueueMVC.Infrastracture;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Options;
 
 var builder = WebApplication.CreateBuilder(args);

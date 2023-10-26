@@ -7,10 +7,10 @@ public class JobRepository : IJobRepository
     private readonly Context _context;
     public JobRepository(Context context)
     {
-        _context=context;
+        _context = context;
     }
 
-    public void Delete(int jobId)
+    public void DeleteJob(int jobId)
     {
         var job = _context.Jobs.Find(jobId);
         if(job != null)

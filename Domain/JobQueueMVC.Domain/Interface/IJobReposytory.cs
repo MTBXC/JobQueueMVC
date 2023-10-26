@@ -1,6 +1,6 @@
 public interface IJobRepository
 {
-void Delete(int jobId);
+void DeleteJob(int jobId);
 int AddJob(Job job);
 IQueryable<Job> GetJobsByTypeId(int typeId);
 IQueryable<Tag> GetAllTags();

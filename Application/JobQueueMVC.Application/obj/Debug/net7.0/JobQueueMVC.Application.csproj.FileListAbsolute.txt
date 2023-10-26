@@ -16,7 +16,6 @@ C:\Users\korlatowiczm\Documents\SzkolaDotNeta\ASP.NET\JobQueueMVC\Application\Jo
 C:\Users\korlatowiczm\Documents\SzkolaDotNeta\ASP.NET\JobQueueMVC\Application\JobQueueMVC.Application\bin\Debug\net7.0\JobQueueMVC.Application.runtimeconfig.json
 C:\Users\korlatowiczm\Documents\SzkolaDotNeta\ASP.NET\JobQueueMVC\Application\JobQueueMVC.Application\obj\Debug\net7.0\JobQueueMVC.Application.genruntimeconfig.cache
 C:\Users\PC\source\repos\JobQueueMVC\Application\JobQueueMVC.Application\bin\Debug\net7.0\JobQueueMVC.Application.deps.json
-C:\Users\PC\source\repos\JobQueueMVC\Application\JobQueueMVC.Application\bin\Debug\net7.0\JobQueueMVC.Application.runtimeconfig.json
 C:\Users\PC\source\repos\JobQueueMVC\Application\JobQueueMVC.Application\bin\Debug\net7.0\JobQueueMVC.Application.dll
 C:\Users\PC\source\repos\JobQueueMVC\Application\JobQueueMVC.Application\bin\Debug\net7.0\JobQueueMVC.Application.pdb
 C:\Users\PC\source\repos\JobQueueMVC\Application\JobQueueMVC.Application\bin\Debug\net7.0\JobQueueMVC.Domain.dll
@@ -30,5 +29,4 @@ C:\Users\PC\source\repos\JobQueueMVC\Application\JobQueueMVC.Application\obj\Deb
 C:\Users\PC\source\repos\JobQueueMVC\Application\JobQueueMVC.Application\obj\Debug\net7.0\JobQueueMVC.Application.dll
 C:\Users\PC\source\repos\JobQueueMVC\Application\JobQueueMVC.Application\obj\Debug\net7.0\refint\JobQueueMVC.Application.dll
 C:\Users\PC\source\repos\JobQueueMVC\Application\JobQueueMVC.Application\obj\Debug\net7.0\JobQueueMVC.Application.pdb
-C:\Users\PC\source\repos\JobQueueMVC\Application\JobQueueMVC.Application\obj\Debug\net7.0\JobQueueMVC.Application.genruntimeconfig.cache
 C:\Users\PC\source\repos\JobQueueMVC\Application\JobQueueMVC.Application\obj\Debug\net7.0\ref\JobQueueMVC.Application.dll

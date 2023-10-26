@@ -13,10 +13,8 @@ C:\Users\korlatowiczm\Documents\SzkolaDotNeta\ASP.NET\JobQueueMVC\Domain\JobQueu
 C:\Users\korlatowiczm\Documents\SzkolaDotNeta\ASP.NET\JobQueueMVC\Domain\JobQueueMVC.Domain\bin\Debug\net7.0\JobQueueMVC.Domain.runtimeconfig.json
 C:\Users\korlatowiczm\Documents\SzkolaDotNeta\ASP.NET\JobQueueMVC\Domain\JobQueueMVC.Domain\obj\Debug\net7.0\JobQueueMVC.Domain.genruntimeconfig.cache
 C:\Users\PC\source\repos\JobQueueMVC\Domain\JobQueueMVC.Domain\bin\Debug\net7.0\JobQueueMVC.Domain.deps.json
-C:\Users\PC\source\repos\JobQueueMVC\Domain\JobQueueMVC.Domain\bin\Debug\net7.0\JobQueueMVC.Domain.runtimeconfig.json
 C:\Users\PC\source\repos\JobQueueMVC\Domain\JobQueueMVC.Domain\bin\Debug\net7.0\JobQueueMVC.Domain.dll
 C:\Users\PC\source\repos\JobQueueMVC\Domain\JobQueueMVC.Domain\bin\Debug\net7.0\JobQueueMVC.Domain.pdb
-C:\Users\PC\source\repos\JobQueueMVC\Domain\JobQueueMVC.Domain\obj\Debug\net7.0\JobQueueMVC.Domain.csproj.AssemblyReference.cache
 C:\Users\PC\source\repos\JobQueueMVC\Domain\JobQueueMVC.Domain\obj\Debug\net7.0\JobQueueMVC.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\PC\source\repos\JobQueueMVC\Domain\JobQueueMVC.Domain\obj\Debug\net7.0\JobQueueMVC.Domain.AssemblyInfoInputs.cache
 C:\Users\PC\source\repos\JobQueueMVC\Domain\JobQueueMVC.Domain\obj\Debug\net7.0\JobQueueMVC.Domain.AssemblyInfo.cs
@@ -24,5 +22,4 @@ C:\Users\PC\source\repos\JobQueueMVC\Domain\JobQueueMVC.Domain\obj\Debug\net7.0\
 C:\Users\PC\source\repos\JobQueueMVC\Domain\JobQueueMVC.Domain\obj\Debug\net7.0\JobQueueMVC.Domain.dll
 C:\Users\PC\source\repos\JobQueueMVC\Domain\JobQueueMVC.Domain\obj\Debug\net7.0\refint\JobQueueMVC.Domain.dll
 C:\Users\PC\source\repos\JobQueueMVC\Domain\JobQueueMVC.Domain\obj\Debug\net7.0\JobQueueMVC.Domain.pdb
-C:\Users\PC\source\repos\JobQueueMVC\Domain\JobQueueMVC.Domain\obj\Debug\net7.0\JobQueueMVC.Domain.genruntimeconfig.cache
 C:\Users\PC\source\repos\JobQueueMVC\Domain\JobQueueMVC.Domain\obj\Debug\net7.0\ref\JobQueueMVC.Domain.dll
